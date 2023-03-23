@@ -2,8 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI">
 <!--my introduction start-->
-> Here is some of my self-introduction hahaha.
-
+Here is some of my self-introduction hahaha.
 - 🔭 Now I am a graduate student. I may not be that good, but I have been working hard 🐌.
 - 🌱 Have a public account with friends **[一颗程序树]**, welcome to step on.
 - 🐢 My postgraduate research is extensive, including semi-supervised learning, domain transfer, domain generalization and prompt learning. However, I have not yet completed QAQ 😭. I hope the reviewers will be kind 🙉.
@@ -11,7 +10,7 @@
 - ❤️ Personally, I think I am a sports boy, but I am only half good at what I am not particularly good at. I like badminton 🎾 very much, although I love it, I will beat CMH one day.
 - 🐴 Come on **Yangsixin** is the best ！！！
 - 📧 My email:**yangsixin1999@163.com**. Welcome to chat hahaha and find Github friends！！！！
-
 ---
-
+Things I code with
+https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sixiny)
