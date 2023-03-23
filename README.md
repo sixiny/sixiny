@@ -12,7 +12,3 @@ Here is some of my self-introduction hahaha.
 - 🐴 Come on **Yangsixin** is the best ！！！
 - 📧 My email:**yangsixin1999@163.com**. Welcome to chat hahaha and find Github friends！！！！
 ---
-
-Things I code with
-https://img.shields.io/badge/python-3.9-orange
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sixiny)
