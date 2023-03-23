@@ -14,5 +14,5 @@ Here is some of my self-introduction hahaha.
 ---
 
 Things I code with
-[https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg](https://img.shields.io/badge/python-3.9-orange)
+https://img.shields.io/badge/python-3.9-orange
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sixiny)
