@@ -2,6 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI">
 <!--my introduction start-->
+
 Here is some of my self-introduction hahaha.
 - 🔭 Now I am a graduate student. I may not be that good, but I have been working hard 🐌.
 - 🌱 Have a public account with friends **[一颗程序树]**, welcome to step on.
@@ -11,6 +12,7 @@ Here is some of my self-introduction hahaha.
 - 🐴 Come on **Yangsixin** is the best ！！！
 - 📧 My email:**yangsixin1999@163.com**. Welcome to chat hahaha and find Github friends！！！！
 ---
+\br
 Things I code with
 https://img.shields.io/badge/{徽标标题}-{徽标内容}-{徽标颜色}.svg
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sixiny)
